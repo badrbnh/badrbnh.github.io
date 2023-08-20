@@ -71,7 +71,7 @@
 .max_guest .guest-icon {
   width: 100px;
   height: 40px;
-  background: url(/Projects/badrbnh.github.io/images/icon_group.png)
+  background: url(badrbnh.github.io/images/icon_group.png)
     no-repeat center;
 }
 .number_rooms {
@@ -86,7 +86,7 @@
 .number_rooms .rooms-icon {
   width: 100px;
   height: 40px;
-  background: url(/Projects/badrbnh.github.io/images/icon_bed.png)
+  background: url(badrbnh.github.io/images/icon_bed.png)
     no-repeat center;
 }
 .number_bathrooms {
@@ -101,7 +101,7 @@
 .number_bathrooms .bath-icon {
   width: 100px;
   height: 40px;
-  background: url(/Projects/badrbnh.github.io/images/icon_bath.png)
+  background: url(badrbnh.github.io/images/icon_bath.png)
     no-repeat center;
 }
 
@@ -139,7 +139,7 @@
 }
 
 .tv-icon {
-  background: url(/Projects/badrbnh.github.io/images/icon_tv.png)
+  background: url(badrbnh.github.io/images/icon_tv.png)
     no-repeat center;
   background-size: contain;
   width: 25px;
@@ -148,7 +148,7 @@
   margin-right: 5px;
 }
 .wifi-icon {
-  background: url(/Projects/badrbnh.github.io/images/icon_wifi.png)
+  background: url(badrbnh.github.io/images/icon_wifi.png)
     no-repeat center;
   background-size: contain;
   width: 25px;
@@ -157,7 +157,7 @@
   margin-right: 5px;
 }
 .pet-icon {
-  background: url(/Projects/badrbnh.github.io/images/icon_pets.png)
+  background: url(/badrbnh.github.io/images/icon_pets.png)
     no-repeat center;
   background-size: contain;
   width: 25px;
