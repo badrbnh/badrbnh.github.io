@@ -139,7 +139,7 @@
 }
 
 .tv-icon {
-  background: url(/images/icon_tv.png)
+  background: url(images/icon_tv.png)
     no-repeat center;
   background-size: contain;
   width: 25px;
@@ -148,7 +148,7 @@
   margin-right: 5px;
 }
 .wifi-icon {
-  background: url(/images/icon_wifi.png)
+  background: url(images/icon_wifi.png)
     no-repeat center;
   background-size: contain;
   width: 25px;
@@ -157,7 +157,7 @@
   margin-right: 5px;
 }
 .pet-icon {
-  background: url(/images/icon_pets.png)
+  background: url(images/icon_pets.png)
     no-repeat center;
   background-size: contain;
   width: 25px;
