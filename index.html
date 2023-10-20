@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Discount Calculator</title>
+        <link rel="stylesheet" href="/Projects/Discount_Calculator/styles/style.css">
+    </head>
+    <body class="body-container">
+        <div class="container">
+            <div class="card">
+                <h1 class="card-title">Discount</h1>
+                <div class="phrase_container">
+                    <h4>Calculator</h4>
+                    <div class="content">
+                        <div class="output-container">
+                            <div class="output"></div>
+                        </div>
+                        <h3>Original Price</h3>
+                        <input id="price_input" type="number">
+                        <h3>Discount percentage</h3>
+                        <input id="discount_input" type="number">
+                        <div class="btn-container">
+                            <button onclick="getValue()" class="calculate-btn">
+                                <p>Calculate</p>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+        <script src="javascript/calcualtion.js"> </script>
+    </body>
+</html>
